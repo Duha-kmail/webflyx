@@ -6,5 +6,12 @@
 - 12 Years a Slave
 - The Big Short
 - 12 Monkey
+<<<<<<< HEAD
 - The Curious Case of Benjamin Button
+=======
+<<<<<<< HEAD
+- The Curious Case of Benjamin Button
+- "The spice must flow."
+
+>>>>>>> update_dune
 
